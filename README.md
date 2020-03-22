@@ -1,5 +1,8 @@
-# Internship-Status-2020
-Status of 2020 internships amidst Covid19 outbreak
+## Status of 2020 internships amidst Covid19 outbreak
+
+As new information comes in we will be posting it here and tweeting it out on [@upboundme](https://twitter.com/upboundme)
+
+Please <b>contribute</b> by making a <b>pull request</b> or DM [@upboundme](https://twitter.com/upboundme)
 
 | Company | Status | Notes |
 |:--------|:------:|:------|
@@ -12,6 +15,8 @@ Status of 2020 internships amidst Covid19 outbreak
 |WillowTree|Cancelled||
 |IDEMIA|Cancelled||
 |Stubhub|Cancelled||
+||||
+||||
 ||||
 |Citadel|Not Cancelled|Spring interns are working from home. Summer is TBD|
 |Stripe|Not Cancelled||
