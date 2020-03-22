@@ -47,5 +47,5 @@ Please <b>contribute</b> by making a <b>pull request</b> or DM [@upboundme](http
 |Salesforce|Not Cancelled||
 |Google|Not Cancelled||
 |Qualtrics|Not Cancelled||
-
+|Okta|Not Cancelled||
 
