@@ -45,7 +45,7 @@ Please <b>contribute</b> by making a <b>pull request</b> or DM [@upboundme](http
 |Goldman Sachs|Not Cancelled||
 |Atlassian|Not Cancelled||
 |Salesforce|Not Cancelled||
-|Google|Not Cancelled||
+|Google|Not Cancelled|All internships will be conducted remote|
 |Qualtrics|Not Cancelled||
 |Okta|Not Cancelled||
 
